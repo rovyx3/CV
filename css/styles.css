@@ -1,0 +1,28 @@
+a:hover {
+  color: orange;
+}
+
+body {
+  background-color: #a2d5f2;
+}
+
+hr {
+  border-bottom-color: white;
+  border-bottom-style: dotted;
+  border-bottom-width: 10px;
+  border-style: none;
+  width: 40%;
+}
+
+h1 {
+  color: #00334e;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #056674;
+}
+
+h2 {
+  color: #056674;
+}
